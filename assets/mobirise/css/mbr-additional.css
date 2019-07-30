@@ -1796,12 +1796,25 @@ body {
   }
 }
 .cid-rxszYuHEiM {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rxszYuHEiM P {
   color: #767676;
+}
+.cid-rxG13HmGZI {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 60px;
+}
+.cid-rxG13HmGZI .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rxG13HmGZI .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rxsA0AiFXp {
   padding-top: 90px;
